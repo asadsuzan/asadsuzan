@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/123138018_2740350249586788_7198616811666860188_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeE-2R1q_MzQV3wV0P-SBKskmvif6jNlxzKa-J_qM2XHMsw6qZ_UJWxB657ObQHMJlgLQZchH_MLsx8PoIzUh-Me&_nc_ohc=sRfxfSBctlUAX8WOK3m&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_Nz0k6nOXPEJibN-LEN3Rs4D8GgK_w9UILeDIGf76cdw&oe=620C25F5)](https://asadsuzan.github.io/me/)
+[![MasterHead](suzan-Logo-slgn.jpg)](https://asadsuzan.github.io/me/)
 <h1 align="center">Hi 👋, I'm Asad Suzan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
