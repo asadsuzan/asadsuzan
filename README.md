@@ -1,5 +1,5 @@
-[![MasterHead](banner.jpg)](https://asadsuzan.github.io/me/)
-<h1 align="center">Hi 👋, I'm Asad Suzan</h1>
+[![MasterHead](banner.jpg)](https://asadsuzaan.web.app/)
+<h1 align="center">Hi 👋, I'm Asaduzzaman Suzan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadsuzan&label=Profile%20views&color=0e75b6&style=flat" alt="asadsuzan" /> </p>
