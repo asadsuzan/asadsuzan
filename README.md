@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadsuzan" alt="asadsuzan" /></a> </p>
 
 - 🌱 Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. I have a ton of prior experience in web development from the Front-End point of view and am well-versed with coding for both Single page applications and larger multiple-paged websites. I have built the front ends of over 200 websites.
-
-
 - <img align="right" alt="suzan" width="400px" src= "https://c.tenor.com/iYDmNcpFHeIAAAAM/blood-anime.gif">
 
 - 👨‍💻 Website [https://asadsuzaan.web.app](https://asadsuzaan.web.app)
