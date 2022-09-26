@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **frontend development**
 - <img align="right" alt="suzan" width="400px" src= "https://c.tenor.com/iYDmNcpFHeIAAAAM/blood-anime.gif">
 
-- 👨‍💻 Website [https://asadsuzan.github.io/me/](https://asadsuzaan.wev.app)
+- 👨‍💻 Website [https://asadsuzaan.web.app](https://asadsuzaan.web.app)
 
 - 💬 Ask me about **react**
 
