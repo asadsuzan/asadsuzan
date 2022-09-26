@@ -1,6 +1,7 @@
 [![MasterHead](banner.jpg)](https://asadsuzaan.web.app/)
 <h1 align="center">Hi 👋, My self Asaduzzaman Suzan.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+ Building state-of-the-art, easy-to-use, user-friendly websites and applications is truly a passion of mine. I have a ton of prior experience in web development from the Front-End point of view and am well-versed with coding for both Single page applications and larger multiple-paged websites. I have built the front ends of over 200 websites.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadsuzan&label=Profile%20views&color=0e75b6&style=flat" alt="asadsuzan" /> </p>
 
