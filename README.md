@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <span align="left">
-<a href="https://fb.com/https://www.facebook.com/asad.sujon.16" target="_blank" rel="noopener noreferrer ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asad.sujon.16" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/asad.sujon.16" target="_blank" rel="noopener noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asad.sujon.16" height="30" width="40" /></a>
 </span>
 
 <span align="left">
-<a href="https://www.linkedin.com/in/asadsuzan/" target="_blank" rel="noopener noreferrer><img align="center" src="Limav-Flat-Gradient-Social-Linkedin.ico" alt="https://www.facebook.com/asad.sujon.16" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asadsuzan/" target="_blank" rel="noopener noreferrer"><img align="center" src="Limav-Flat-Gradient-Social-Linkedin.ico" alt="https://www.facebook.com/asad.sujon.16" height="30" width="40" /></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
