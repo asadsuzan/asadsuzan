@@ -21,7 +21,7 @@
 </span>
 
 <span align="left">
-<a href="https://fb.com/https://www.facebook.com/asad.sujon.16" target="blank"><img align="center" src="Limav-Flat-Gradient-Social-Linkedin.ico" alt="https://www.facebook.com/asad.sujon.16" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asadsuzan/" target="blank"><img align="center" src="Limav-Flat-Gradient-Social-Linkedin.ico" alt="https://www.facebook.com/asad.sujon.16" height="30" width="40" /></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
