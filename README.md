@@ -1,4 +1,4 @@
-[![MasterHead](suzan-Logo-slgn.jpg)](https://asadsuzan.github.io/me/)
+[![MasterHead](banner.jpg)](https://asadsuzan.github.io/me/)
 <h1 align="center">Hi 👋, I'm Asad Suzan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
