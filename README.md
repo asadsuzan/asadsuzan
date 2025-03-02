@@ -10,7 +10,7 @@
 
 
  
-- 👨‍💻 Website [https://asadsuzaan.web.app](https://asadsuzaan.web.app)
+- 👨‍💻 Website [https://asadsuzaan.web.app](https://asadsuzan.com)
 
 - 💬 Ask me about **react**
 
