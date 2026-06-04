@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asad Suzan 👋</h1>
-<h3 align="center">Frontend Developer | Building Digital Experiences</h3>
+<h3 align="center">Software Developer | WordPress Gutenberg & React Specialist | Full-Stack (Next.js, Node.js, Express.js, TypeScript) | MongoDB & SQL | Building Scalable Web Solutions</h3>
 
 <p align="center">
   Passionate about building state-of-the-art, user-friendly websites and applications. 
