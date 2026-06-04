@@ -18,7 +18,7 @@
 I love working with modern web technologies. Here is my primary toolkit:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,mongodb,nodejs,express,nextjs,php,wordpress&perline=9" />
 </p>
 
 ---
